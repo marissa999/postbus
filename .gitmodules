@@ -1,0 +1,3 @@
+[submodule "stage-core"]
+	path = stage-core
+	url = git@gitlab.com:encounter-vtt/stage/stage-core.git

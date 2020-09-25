@@ -1,0 +1,6 @@
+DROP TABLE event CASCADE;
+DROP TABLE chat CASCADE;
+DROP TABLE message CASCADE;
+DROP TABLE message_list CASCADE;
+
+DROP EXTENSION "uuid-ossp";
